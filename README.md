@@ -17,7 +17,7 @@ npm install
 
 ## Create .env
 
-Create .env file and copy env-data to .env 
+Create .env file and copy env.txt to .env 
 
 
 ## Steps for read-only access
